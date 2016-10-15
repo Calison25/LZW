@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1476563183 source:d:\calison\uneb\semestres\nono\ed2\lzw\main.c
+	"main.h"
+
+1476563162 d:\calison\uneb\semestres\nono\ed2\lzw\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
